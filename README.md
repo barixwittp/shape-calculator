@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Shape Calculator README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f9f9f9;
-      margin: 40px;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-    code {
-      background: #e1e1e1;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .content {
-      margin-left: 20px;
-    }
-    footer {
-      margin-top: 40px;
-      text-align: center;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
-</head>
+
 <body>
   <h1>Shape Calculator Application 🚀</h1>
   
