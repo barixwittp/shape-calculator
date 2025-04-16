@@ -69,38 +69,13 @@
     <h2>Installation 🔧</h2>
     <div class="content">
       <ol>
-        <li>Clone the repository: <code>git clone https://github.com/yourusername/shape-calculator.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/barixwittp/shape-calculator.git</code></li>
         <li>Navigate to the project directory: <code>cd shape-calculator</code></li>
         <li>Install any required dependencies if applicable.</li>
       </ol>
     </div>
   </div>
   
-  <!-- Usage -->
-  <div class="section" id="usage">
-    <h2>Usage ▶️</h2>
-    <div class="content">
-      <p>
-        Run the application using your command line or preferred IDE. Follow the on-screen instructions to:
-      </p>
-      <ul>
-        <li>Select a geometric shape.</li>
-        <li>Enter the necessary dimensions.</li>
-        <li>View the computed area and perimeter instantly.</li>
-      </ul>
-    </div>
-  </div>
-  
-  <!-- Testing -->
-  <div class="section" id="testing">
-    <h2>Testing 🧪</h2>
-    <div class="content">
-      <p>
-        The application includes unit tests to verify the computation logic for each shape. To run the tests, execute:
-      </p>
-      <pre><code>python -m unittest discover</code></pre>
-    </div>
-  </div>
   
   <!-- Contributing -->
   <div class="section" id="contributing">
@@ -112,28 +87,9 @@
     </div>
   </div>
   
-  <!-- License -->
-  <div class="section" id="license">
-    <h2>License 📄</h2>
-    <div class="content">
-      <p>
-        This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.
-      </p>
-    </div>
-  </div>
-  
-  <!-- Contact -->
-  <div class="section" id="contact">
-    <h2>Contact 📞</h2>
-    <div class="content">
-      <p>
-        If you have any questions or feedback, please open an issue on GitHub or contact the maintainer at <a href="mailto:your.email@example.com">your.email@example.com</a>.
-      </p>
-    </div>
-  </div>
   
   <footer>
-    <p>Made with ❤️ by [Your Name] – 2025</p>
+    <p>Made with ❤️ by Harshit Prasad – 2025</p>
   </footer>
 </body>
 </html>
